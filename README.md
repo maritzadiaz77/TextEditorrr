@@ -36,11 +36,17 @@ THEN I should have proper build scripts for a webpack application
 - [License](#license)
 
 ## Installation
+Here is the render link
+https://texteditorrr.onrender.com/ 
 
+Here is my Github link
+https://github.com/maritzadiaz77/TextEditorrr 
+link to my walkthrough video
+https://youtu.be/nRnIigHthJw?si=hHLpgQBHn8HJbwnq 
 ## Usage
 
 ## Credits
-
+Thank you to my Tutor that helped me feel more confident about this project!
 
 ## License
 
