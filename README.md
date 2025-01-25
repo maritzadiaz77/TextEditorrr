@@ -1,6 +1,7 @@
-# Text Editor Starter Code
+# Text Editorrr
 
 # Description
+
 GIVEN a text editor web application
 WHEN I open my application in my editor
 THEN I should see a client server folder structure
@@ -26,8 +27,22 @@ WHEN I register a service worker
 THEN I should have my static assets pre cached upon loading along with subsequent pages and static assets
 WHEN I deploy to Render
 THEN I should have proper build scripts for a webpack application
-# Installation
 
-# Usage
+## Table of Contents (Optional)
 
-# Credits
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+
+## Installation
+
+## Usage
+
+## Credits
+
+My tutor and TA.
+
+## License
+
+N/A
