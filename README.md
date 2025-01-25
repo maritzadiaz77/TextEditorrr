@@ -41,7 +41,6 @@ THEN I should have proper build scripts for a webpack application
 
 ## Credits
 
-My tutor and TA.
 
 ## License
 
